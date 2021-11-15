@@ -36,3 +36,13 @@
   background-color: #E87E68;
 }
 
+.headings {
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  margin-left: 311px;
+}
+
+.text {
+  font-family: 'Titillium Web', sans-serif;
+  margin-left: 622px;
+}
