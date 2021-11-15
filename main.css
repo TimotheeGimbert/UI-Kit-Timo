@@ -1,26 +1,38 @@
 .row {
   display: flex;
   margin: 10px;
-  padding: 20px;
+  padding: 10px;
   color: white;
 }
 
-.color--1 {
+.primary {
+  background-color: #6A7EA6;
+}
+.secondary {
+  background-color: #5BA892;
+}
+
+.dark {
+  background-color: #474B59;
+}
+.medium-light {
+  background-color: #878DA8;
+}
+.light {
+  background-color: #D1DAEB;
+}
+
+
+.info {
   background-color: #466FE8;
 }
-
-.color--2 {
-  background-color: #6DC2A5;
-}
-
-.color--3 {
+.success {
   background-color: #AFDB6E;
 }
-
-.color--4 {
+.warning {
   background-color: #F2CB6D;
 }
-
-.color--5 {
+.danger{
   background-color: #E87E68;
 }
+
