@@ -1,4 +1,26 @@
 .row {
   display: flex;
-  background-color: antiquewhite;
+  margin: 10px;
+  padding: 20px;
+  color: white;
+}
+
+.color--1 {
+  background-color: #466FE8;
+}
+
+.color--2 {
+  background-color: #6DC2A5;
+}
+
+.color--3 {
+  background-color: #AFDB6E;
+}
+
+.color--4 {
+  background-color: #F2CB6D;
+}
+
+.color--5 {
+  background-color: #E87E68;
 }
